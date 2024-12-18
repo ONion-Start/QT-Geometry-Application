@@ -56,7 +56,7 @@ Geometry Application — это программа, демонстрирующа
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/<ваш-репозиторий>/geometry-application.git](https://github.com/ONion-Start/QT-Geometry-Application)
+   git clone (https://github.com/ONion-Start/QT-Geometry-Application)
    ```
 
 2. Откройте проектный файл в Qt Creator.
